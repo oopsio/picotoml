@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.c text diff=cpp
+*.h text diff=cpp
+*.md text
+LICENSE text
+.gitignore text
+.gitattributes text
+.editorconfig text

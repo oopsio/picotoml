@@ -1,0 +1,22 @@
+# Binaries
+*.exe
+*.out
+test_picotoml
+
+# Object files
+*.o
+*.obj
+
+# Debugging symbols
+*.pdb
+*.ilk
+
+# VS Code / IDEs
+.vscode/
+.vs/
+.idea/
+
+# Temporary files
+/tmp/
+*.tmp
+*.log
